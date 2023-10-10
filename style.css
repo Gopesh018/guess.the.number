@@ -111,7 +111,8 @@ p {
 
 @media (max-width:500px) {
     form #guessinput {
-        font-size: 6vw;
+        font-size: 5vw;
+        width: 90%;
     }
     form input[type = button] {
         font-size: 6vw;
